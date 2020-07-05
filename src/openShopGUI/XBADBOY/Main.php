@@ -14,7 +14,7 @@ use pocketmine\level\sound\PopSound;
 use libs\muqsit\invmenu\InvMenu;
 use libs\muqsit\invmenu\InvMenuHandler;
 use onebone\economyapi\EconomyAPI;
-use openShopGUI\XISOQ\Sound\SoundSuccess;
+use openShopGUI\XBADBOY\Sound\SoundSuccess;
 
 class Main extends PluginBase implements Listener{
 	
