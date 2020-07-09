@@ -4,7 +4,6 @@ api: 3.0.0, 3.14.0
 version: 1.0
 depend:
 -EconomyAPI
--InvCrashFix
 author: XBadBoy,xisoq
 
 commands:
