@@ -1,6 +1,6 @@
 name: ShopGUI
 main: openShopGUI\XBADBOY\Main
-api: 3.0.0, 3.14.0
+api: 3.00.0 , 3.22.2
 version: 1.0
 author: XBadBoy,xisoq
 
